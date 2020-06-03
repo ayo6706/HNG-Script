@@ -1,6 +1,6 @@
 <?php
  
-function hngtaskone(){
+function Hngtaskone(){
   
 $firstname = "Ayomide";
 $lastname = "Onibokun";
@@ -11,6 +11,6 @@ $lang = "PHP";
 return ("Hello World, this is ".$firstname." ".$lastname." with HNGi7 ID ".$ID." and email ".$email."  using ".$lang." for stage 2 task");  
 }
 
-print hngtaskone();
+print Hngtaskone();
 
 ?>
